@@ -10,7 +10,7 @@ const Hero = () => {
           Learn new skills <br /> online with ease
         </h1>
         <p className="mt-[24px] font-[Roboto] text-[18px] leading-[27px] max-sm:text-[14px] max-sm:leading-[21px]">
-          Discover a wide range of courses covering a variety of <br className="max-sm:hidden" />
+          Discover a wide range of courses covering a <br/> variety of <br className="max-sm:hidden" />
           subjects taught by expert instructors.
         </p>
         <div className="mt-[24px] max-sm:mt-[16px]">
